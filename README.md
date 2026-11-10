@@ -52,5 +52,3 @@
 ![Logisim](https://img.shields.io/badge/-Logisim-005596?style=flat)
 
 ---
-
-> _"Code. Sleep. Repeat."_
