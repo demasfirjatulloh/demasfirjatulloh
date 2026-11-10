@@ -1,5 +1,5 @@
 # Hi there 👋, I'm Demas Firrjatulloh Janitro  
-💻 Aspiring Software Developer | 🧠 AI Enthusiast | 🎮 3D Game Dev Learner
+Aspiring Software Developer | AI Enthusiast | 3D Game Dev Learner | Fullstack developer
 
 ---
 
@@ -24,9 +24,5 @@
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
 ---
-
-## 🚀 Projects
-- 🔗 [My AI-Powered Social Media Platform](https://github.com/username/project-name)
-- 🕹️ [3D Game using Panda3D](https://github.com/username/game-project)
 
 > _"Code. Sleep. Repeat."_
