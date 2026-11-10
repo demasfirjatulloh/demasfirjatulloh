@@ -1,4 +1,4 @@
-# Hi there, I'm Demas Firrjatulloh Janitro
+# Hi there, I'm Demas Firjatulloh Janitro
 **Aspiring Software Developer | AI Enthusiast | 3D Game Dev Learner | Fullstack Developer**
 
 ---
